@@ -2,7 +2,7 @@
 
  Paola Hernandez
  I learned to clone a repository, and create branches in order to collaborate. 
-=======
+
 
 Crystal Chagoya
 I learned how to clone a repository and creating a branch. 
